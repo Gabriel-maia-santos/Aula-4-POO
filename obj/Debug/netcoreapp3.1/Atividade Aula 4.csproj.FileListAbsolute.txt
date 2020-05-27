@@ -1,0 +1,13 @@
+C:\Users\xbsbu\Desktop\Projetos - Senai\Atividade Aula 4\bin\Debug\netcoreapp3.1\Atividade Aula 4.exe
+C:\Users\xbsbu\Desktop\Projetos - Senai\Atividade Aula 4\bin\Debug\netcoreapp3.1\Atividade Aula 4.deps.json
+C:\Users\xbsbu\Desktop\Projetos - Senai\Atividade Aula 4\bin\Debug\netcoreapp3.1\Atividade Aula 4.runtimeconfig.json
+C:\Users\xbsbu\Desktop\Projetos - Senai\Atividade Aula 4\bin\Debug\netcoreapp3.1\Atividade Aula 4.runtimeconfig.dev.json
+C:\Users\xbsbu\Desktop\Projetos - Senai\Atividade Aula 4\bin\Debug\netcoreapp3.1\Atividade Aula 4.dll
+C:\Users\xbsbu\Desktop\Projetos - Senai\Atividade Aula 4\bin\Debug\netcoreapp3.1\Atividade Aula 4.pdb
+C:\Users\xbsbu\Desktop\Projetos - Senai\Atividade Aula 4\obj\Debug\netcoreapp3.1\Atividade Aula 4.csprojAssemblyReference.cache
+C:\Users\xbsbu\Desktop\Projetos - Senai\Atividade Aula 4\obj\Debug\netcoreapp3.1\Atividade Aula 4.csproj.CoreCompileInputs.cache
+C:\Users\xbsbu\Desktop\Projetos - Senai\Atividade Aula 4\obj\Debug\netcoreapp3.1\Atividade Aula 4.AssemblyInfoInputs.cache
+C:\Users\xbsbu\Desktop\Projetos - Senai\Atividade Aula 4\obj\Debug\netcoreapp3.1\Atividade Aula 4.AssemblyInfo.cs
+C:\Users\xbsbu\Desktop\Projetos - Senai\Atividade Aula 4\obj\Debug\netcoreapp3.1\Atividade Aula 4.dll
+C:\Users\xbsbu\Desktop\Projetos - Senai\Atividade Aula 4\obj\Debug\netcoreapp3.1\Atividade Aula 4.pdb
+C:\Users\xbsbu\Desktop\Projetos - Senai\Atividade Aula 4\obj\Debug\netcoreapp3.1\Atividade Aula 4.genruntimeconfig.cache
